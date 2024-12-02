@@ -1,0 +1,13 @@
+# Python version
+python>=3.9
+
+# PyTorch (compatible with CUDA 12.1)
+torch>=2.2.1+cu121
+torchvision>=0.15.3+cu121
+torchaudio>=2.2.2+cu121
+
+# NumPy
+numpy>=1.21.0
+
+# Scikit-Learn
+scikit-learn>=1.0
